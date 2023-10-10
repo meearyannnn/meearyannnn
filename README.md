@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meearyannnn
-- 👀 i am learing c,c+
+- 👀 i am learning c,c+
 - 🌱 interested in Andoid Dev
 - 💞️ Doing undergrad
 - 📫 How to reach me ...
