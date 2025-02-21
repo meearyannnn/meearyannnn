@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">"🔧 Engineering Student | Building the Future One Line of Code at a Time 💡 | 3rd Year Innovator in Computer Science Field | Problem-Solver by Day, Code Warrior by Night 🌙 | Always Learning, Always Creating 🚀"</h3>
+<h3 align="center">"🔧 Engineering Student | Building the Future One Line of Code at a Time 💡 | 2rd Year Innovator in Computer Science Field | Problem-Solver by Day, Code Warrior by Night 🌙 | Always Learning, Always Creating 🚀"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meearyannnn&label=Profile%20views&color=0e75b6&style=flat" alt="meearyannnn" /> </p>
 
